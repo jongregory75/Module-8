@@ -1,5 +1,4 @@
 # Module-8
-# Module-8
 <li>Renamed BooTheDog.html to index.html</li>
 <li>Renamed the .js file errors.js to logic.js at the bottom of index.html (can't place scripts above where the DOM elements are created) </li>
 <li>Added &lt; p &gt; tags to break up the About Boo section</li>
